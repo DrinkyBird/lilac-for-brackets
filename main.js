@@ -1,0 +1,9 @@
+//testing testing 1 2 3
+
+define(function (require, exports, module) {
+    "use strict";
+
+    var ExtensionUtils = brackets.getModule("utils/ExtensionUtils");
+
+    ExtensionUtils.addEmbeddedStyleSheet(".CodeMirror-scroll{background-color:#564155}.CodeMirror{color:#D6B1BC}CodeMirror-activeline-background{background:transparent}.CodeMirror-focused .CodeMirror-activeline-background{background:#6A5569}.CodeMirror-focused .CodeMirror-activeline>div,.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt{height:100%}.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt{background:#F7F0F7;color:#564155}.CodeMirror-focused .CodeMirror-activeline .inline-widget .CodeMirror-gutter-elt{color:#949494}.cm-s-default span.cm-keyword{color:#83AE51}.cm-s-default span.cm-atom{color:#D4798D}.cm-s-default span.cm-number{color:#E3AD84}.cm-s-default span.cm-def{color:#D6B1BC}.cm-s-default span.cm-variable{color:#D6B1BC}.cm-s-default span.cm-variable-2{color:#D6B1BC}.cm-s-default span.cm-variable-3{color:#D6B1BC}.cm-s-default span.cm-property{color:#D6B1BC}.cm-s-default span.cm-operator{color:#E0DA6F}.cm-s-default span.cm-comment{color:#926C88}.cm-s-default span.cm-string{color:#D4798D}.cm-s-default span.cm-string-2{color:#D4798D}.cm-s-default span.cm-meta{color:#D6B1BC}.cm-s-default span.cm-error{color:#dc322f}.cm-s-default span.cm-qualifier{color:#83AE51}.cm-s-default span.cm-builtin{color:#83AE51}.cm-s-default span.cm-bracket{color:#E0DA6F}.cm-s-default span.cm-tag{color:#83AE51}.cm-s-default span.cm-attribute{color:#83AE51}.cm-s-default span.cm-header{color:#d33682}.cm-s-default span.cm-quote{color:#83AE51}.cm-s-default span.cm-hr{color:#D4798D}.cm-s-default span.cm-link{color:#D6B1BC}.cm-s-default span.cm-rangeinfo{color:#6c71c4}.cm-s-default span.cm-minus{color:#dc322f}.cm-s-default span.cm-plus{color:#859900}");
+});
