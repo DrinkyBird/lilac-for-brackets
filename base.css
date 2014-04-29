@@ -10,7 +10,7 @@
 .CodeMirror-gutter-elt{height:100%}
 .CodeMirror-focused
 .CodeMirror-activeline
-.CodeMirror-gutter-elt{background:#F7F0F7;color:#564155}
+.CodeMirror-gutter-elt{background:#ccc;color:#564155}
 .CodeMirror-focused
 .CodeMirror-activeline
 .inline-widget
